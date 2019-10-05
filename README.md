@@ -23,7 +23,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+<img src='proj0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 GIF created is called proj0.gif, and it shows the execution of the 3 user stories.
 ## Notes
